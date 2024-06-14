@@ -30,8 +30,8 @@ setup(
 
     url='https://github.com/Bookitbee/flask-talisman',
 
-    author='Alethea Katherine Flowers',
-    author_email='me@thea.codes',
+    author='Julian Petford',
+    author_email='julian@liveit.io',
 
     license='Apache Software License',
 
