@@ -28,7 +28,7 @@ setup(
     description='HTTP security headers for Flask.',
     long_description=long_description,
 
-    url='https://github.com/wntrblm/flask-talisman',
+    url='https://github.com/Bookitbee/flask-talisman',
 
     author='Alethea Katherine Flowers',
     author_email='me@thea.codes',
